@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SnapSave mark: a video screen with a play button, and a download chevron below. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M40,30h28a8,8 0,0 1,8 8v18a8,8 0,0 1,-8 8h-28a8,8 0,0 1,-8 -8v-18a8,8 0,0 1,8 -8z" />
+    <path android:fillColor="#C2449E"
+        android:pathData="M49,39L49,55L62,47Z" />
+    <path android:strokeColor="#FFFFFF" android:strokeWidth="6"
+        android:strokeLineCap="round" android:strokeLineJoin="round"
+        android:pathData="M44,70L54,79L64,70" />
+</vector>
